@@ -23,6 +23,7 @@ import FancyButton from "@/components/UI/Elements/Button/Button";
 
 import commonConfig from '@/database/config/metadata.json';
 import ImageVideo from '@/database/ImageVideo.json';
+import nextConfig from '@/next.config.js';
 import Container from "@/components/UI/Layout/Layout";
 import FadeIn from "@/components/UI/FadeIn/FadeIn";
 import Blobs from "@/components/UI/Elements/Blobs/Blobs";
@@ -123,7 +124,7 @@ export default function Gallery() {
                             <FadeIn y={50} duration={1.6} autoAlpha={1}>
                                 {item.type === 'video' ? (
                                     <video
-                                        src={item.url}
+                                        src={`${nextConfig.basePath || ''}${item.url}`}
                                         autoPlay
                                         loop
                                         muted
