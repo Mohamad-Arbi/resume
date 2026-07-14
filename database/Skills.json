@@ -1,0 +1,79 @@
+[
+  {
+    "icon": "IconJava",
+    "image": "/icon/icon-java.svg",
+    "title": "Java",
+    "subtitle": "SpringBoot, JEE",
+    "description": "I build robust backend services and RESTful APIs with Java 17 and Spring Boot 3, handling authentication with Spring Security & JWT, business logic, and data persistence."
+  },
+  {
+    "icon": "IconAngular",
+    "image": "/icon/icon-angular.svg",
+    "title": "Angular",
+    "subtitle": "TypeScript, Bootstrap",
+    "description": "I develop modern, reactive, and component-based user interfaces with Angular, delivering intuitive single-page applications with real-time features via WebSocket STOMP."
+  },
+  {
+    "icon": "IconPHP",
+    "image": "/icon/icon-php.svg",
+    "title": "PHP / Laravel",
+    "subtitle": "TailwindCSS, Alpine.js",
+    "description": "I build web applications with Laravel 9 and PHP 8, including admin dashboards with status workflows, Excel export, and PDF generation."
+  },
+  {
+    "icon": "IconPython",
+    "image": "/icon/icon-python.svg",
+    "title": "Python / AI",
+    "subtitle": "Deep Learning, LLM",
+    "description": "I leverage Python for AI applications including Deep Learning, generative AI (LLM), semantic analysis with Groq AI API, and data processing with Weka."
+  },
+  {
+    "icon": "IconDatabase",
+    "image": "/icon/icon-database.svg",
+    "title": "Databases",
+    "subtitle": "SQL, MongoDB, Oracle",
+    "description": "I design and manage relational and NoSQL databases including MySQL 8, PostgreSQL, SQL Server, Oracle, PL/SQL, and MongoDB with database administration."
+  },
+  {
+    "icon": "IconDotNet",
+    "image": "/icon/icon-dotnet.svg",
+    "title": "C# / .NET",
+    "subtitle": "Desktop & Web Apps",
+    "description": "I develop robust desktop and web applications using C# and the .NET framework, with SQL Server integration and modern UI libraries."
+  },
+  {
+    "icon": "IconBI",
+    "image": "/icon/icon-bi.svg",
+    "title": "Business Intelligence",
+    "subtitle": "Data Warehouse, ERP",
+    "description": "I apply Business Intelligence concepts including Data Warehouse design, Data Mining, ETL processes, and ERP systems for decision-support information systems."
+  },
+  {
+    "icon": "IconDevOps",
+    "image": "/icon/icon-devops.svg",
+    "title": "Cloud & DevOps",
+    "subtitle": "Docker, cPanel, Git",
+    "description": "I manage cloud deployments via cPanel and o2switch, containerize with Docker, use Git/GitHub for version control, and test APIs with Postman."
+  },
+  {
+    "icon": "IconScrum",
+    "image": "/icon/icon-scrum.svg",
+    "title": "Agile & QA",
+    "subtitle": "SCRUM, UML, ISTQB",
+    "description": "SCRUM Fundamentals Certified. I apply Agile/SDLC methodologies, model with UML (StarUML, Draw.io), and perform quality testing with ISTQB Foundation Level knowledge using Jira, GLPI, and Postman."
+  },
+  {
+    "icon": "IconFlutter",
+    "image": "/icon/icon-flutter.svg",
+    "title": "Flutter",
+    "subtitle": "Mobile Development",
+    "description": "I build cross-platform mobile applications with Flutter, delivering native-like performance and beautiful interfaces on iOS and Android."
+  },
+  {
+    "icon": "IconOffice365",
+    "image": "/icon/icon-office365.svg",
+    "title": "Microsoft 365",
+    "subtitle": "Global Administrator",
+    "description": "Global Administrator of Microsoft 365 tenant. I manage users, licenses, security policies, and the full suite (Outlook, Teams, SharePoint, Excel, Word) for organizational IT governance."
+  }
+]

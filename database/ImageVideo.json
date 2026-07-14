@@ -1,0 +1,76 @@
+[
+  {
+    "url": "/gallery/video-journal.mp4",
+    "date": "May 2026",
+    "location": "Hergla, Tunisia",
+    "direction": "vertical",
+    "type": "video"
+  },
+  {
+    "url": "/gallery/photo-balcony.jpg",
+    "date": "May 2025",
+    "location": "Sousse, Tunisia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-pool.jpg",
+    "date": "June 2024",
+    "location": "Sfax, Tunisia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-windsurf.jpg",
+    "date": "May 2026",
+    "location": "Hammamet, Tunisia",
+    "direction": "story"
+  },
+  {
+    "url": "/gallery/photo-5.jpg",
+    "date": "August 2022",
+    "location": "Elkef, Tunisia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-6.jpg",
+    "date": "August 2025",
+    "location": "Annaba, Algeria",
+    "direction": "story"
+  },
+  {
+    "url": "/gallery/photo-7.jpg",
+    "date": "August 2025",
+    "location": "Annaba, Algeria",
+    "direction": "story"
+  },
+  {
+    "url": "/gallery/photo-8.jpg",
+    "date": "August 2024",
+    "location": "Annaba, Algeria",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-9.jpg",
+    "date": "May 2023",
+    "location": "ElKef, Tunisia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-10.jpg",
+    "date": "August 2024",
+    "location": "Annaba, Algeria",
+    "direction": "story"
+  },
+  {
+    "url": "/gallery/photo-11.jpg",
+    "date": "May 2026",
+    "location": "Hammamet, Tunisia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/photo-12.jpg",
+    "date": "May 2026",
+    "location": "Hammamet, Tunisia",
+    "direction": "story"
+  }
+
+]

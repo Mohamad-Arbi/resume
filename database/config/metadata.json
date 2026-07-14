@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Mohamed Arbi",
+    "title": "Mohamed Arbi Tlili - Software Engineering Student",
+    "description": "Future software engineer passionate about building full-stack web applications with Java, SpringBoot, Angular, and modern technologies.",
+    "timeZone": "Africa/Tunis",
+    "locale": "fr-TN"
+  },
+  "personal": {
+    "name": "Mohamed Arbi",
+    "surname": "Tlili",
+    "role": "Engineering Student in Software & Decision Systems",
+    "experience": 2,
+    "email": "tlilimohamedarbi@gmail.com",
+    "phone": "+21652568817",
+    "city": "Sfax",
+    "state": "Tunisia",
+    "country": "Tunisia",
+    "username": "@mohamedarbitlili",
+    "resumeURL": "/MohamedArbi_Resume.pdf"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/mohamed-arbi",
+    "github": "https://github.com/Mohamad-Arbi",
+    "instagram": "https://www.instagram.com/Mohamad_aarbi"
+  },
+  "content": {
+    "verse": "Active, motivated, and ambitious — constantly seeking to expand my technical skills to deliver high-value projects within dynamic teams."
+  }
+}

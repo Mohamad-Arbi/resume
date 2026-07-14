@@ -1,0 +1,102 @@
+[
+  {
+    "position": "Developer & Technical Assistant (CDI)",
+    "company": "Institut School Business (ISB)",
+    "duration": "November 2024 - Present",
+    "location": "Sfax, Tunisia",
+    "image": "/company/isb.svg",
+    "url": "",
+    "responsibilities": [
+      "Development and maintenance of internal web applications for academic and administrative management.",
+      "Design and development of a pre-registration management platform with admin dashboard, status workflow, Excel export and PDF generation (Laravel 9, PHP 8, MySQL, TailwindCSS, Alpine.js).",
+      "Automation of internal processes via custom-built tools.",
+      "Web hosting management via cPanel and o2switch (deployment, configuration, maintenance).",
+      "Administration of Microsoft 365 services (Outlook, Word, Excel, Teams).",
+      "IT asset management and ticket tracking via GLPI.",
+      "Daily technical support for administrative staff, teachers, and students."
+    ],
+    "color": {
+      "h": "210",
+      "s": "79%",
+      "l": "40%"
+    }
+  },
+  {
+    "position": "Full-Stack Developer (PFA Internship)",
+    "company": "Institut International de Technologie (IIT)",
+    "duration": "February 2026 - June 2026",
+    "location": "Sfax, Tunisia",
+    "image": "/company/iit.svg",
+    "url": "",
+    "responsibilities": [
+      "Design and development of an Intelligent HR Assistant (next-gen ATS with AI).",
+      "Full-stack development with Spring Boot 3 (Java 17) backend and Angular 20 frontend.",
+      "Integration of Groq AI API (LLM) for multidimensional semantic CV analysis.",
+      "Interactive Kanban pipeline (drag & drop) for application tracking.",
+      "Secure authentication via Spring Security and JWT.",
+      "Real-time notifications via WebSocket STOMP.",
+      "Talent pool management (Head Hunter) enriched by AI and statistical dashboard.",
+      "Scrum methodology (5 sprints), MySQL 8 database."
+    ],
+    "color": {
+      "h": "340",
+      "s": "70%",
+      "l": "45%"
+    }
+  },
+  {
+    "position": "Full-Stack Developer (PFE Internship)",
+    "company": "Dk Soft",
+    "duration": "February 2024 - June 2024",
+    "location": "Sfax, Tunisia",
+    "image": "/company/dksoft.svg",
+    "url": "",
+    "responsibilities": [
+      "UML modeling: use case, class, and sequence diagrams.",
+      "Full-stack development with SpringBoot (backend), Angular (frontend), and MySQL.",
+      "Secure authentication via JWT and user management (CRUD).",
+      "Integration of Google Maps for geolocation and Stripe for payment processing.",
+      "Automated email notifications and admin dashboard implementation."
+    ],
+    "color": {
+      "h": "160",
+      "s": "60%",
+      "l": "42%"
+    }
+  },
+  {
+    "position": "Software Developer (PFA Internship)",
+    "company": "OACA - Civil Aviation & Airports",
+    "duration": "July 2023 - August 2023",
+    "location": "Sfax, Tunisia",
+    "image": "/company/oaca.svg",
+    "url": "",
+    "responsibilities": [
+      "Discovery and understanding of the aviation industry operations.",
+      "Introduction to database management systems.",
+      "Design and development of an application to optimize employee and department management within the airport (Angular, SpringBoot, UML, MySQL)."
+    ],
+    "color": {
+      "h": "220",
+      "s": "65%",
+      "l": "50%"
+    }
+  },
+  {
+    "position": "Customer Service Agent",
+    "company": "Optylab",
+    "duration": "August 2022 - December 2022",
+    "location": "Sfax, Tunisia",
+    "image": "/company/optylab.svg",
+    "url": "",
+    "responsibilities": [
+      "Complete management of the purchasing cycle: request preparation, purchase order issuance and tracking through delivery.",
+      "Customer payment follow-up and reconciliation."
+    ],
+    "color": {
+      "h": "30",
+      "s": "70%",
+      "l": "50%"
+    }
+  }
+]

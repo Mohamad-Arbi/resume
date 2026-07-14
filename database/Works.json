@@ -1,0 +1,58 @@
+[
+  {
+    "title": "E-Commerce Platform",
+    "image": "/reference/ecommerce.jpg",
+    "description": "Full-stack e-commerce solution for online sales management built at IIT. Features a secure RESTful API with JWT authentication, flexible data management with MongoDB, and a modern responsive UI with Angular and Bootstrap.",
+    "url": "",
+    "date": "2023 - 2024",
+    "service": "Full-Stack Development",
+    "status": false,
+    "color": {
+      "h": "200",
+      "s": "80%",
+      "l": "45%"
+    }
+  },
+  {
+    "title": "HospitEx",
+    "image": "/reference/hospitex.jpg",
+    "description": "Medical clinic appointment management system built at IIT. Developed with the .NET framework for a robust and flexible backend, SQL Server for secure data management, and a modern intuitive interface using GUNA.UI libraries.",
+    "url": "",
+    "date": "2023",
+    "service": "Desktop Development",
+    "status": false,
+    "color": {
+      "h": "150",
+      "s": "60%",
+      "l": "40%"
+    }
+  },
+  {
+    "title": "Enterprise & Event Manager",
+    "image": "/reference/dksoft-app.jpg",
+    "description": "Web application for enterprise and online event management. Built with SpringBoot and Angular, featuring JWT authentication, Google Maps integration for geolocation, Stripe payment processing, automated email notifications, and a full admin dashboard.",
+    "url": "",
+    "date": "2024",
+    "service": "Full-Stack Development",
+    "status": false,
+    "color": {
+      "h": "260",
+      "s": "55%",
+      "l": "50%"
+    }
+  },
+  {
+    "title": "Airport HR Manager",
+    "image": "/reference/oaca-app.jpg",
+    "description": "Internal application designed to optimize employee and department management within the Sfax airport. Built with Angular frontend, SpringBoot backend, UML modeling, and MySQL database.",
+    "url": "",
+    "date": "2023",
+    "service": "Full-Stack Development",
+    "status": false,
+    "color": {
+      "h": "220",
+      "s": "70%",
+      "l": "45%"
+    }
+  }
+]
