@@ -3,7 +3,8 @@ const nextConfig = {
   output: 'export',
   basePath: '/resume',
   images: {
-    unoptimized: true,
+    loader: 'custom',
+    loaderFile: './imageLoader.js',
   },
 }
 
