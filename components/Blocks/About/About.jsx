@@ -14,7 +14,7 @@ export default function About() {
             <div className={styles.grid}>
 
                 <header className={styles.header}>
-                    <Title heading={'h3'} color="black"><span>I'm a</span> <br/>
+                    <Title heading={'h3'} color="black"><span>I&apos;m a</span> <br/>
                         Full-Stack Developer
                     </Title>
                     <TextReveal className={styles.description}>
