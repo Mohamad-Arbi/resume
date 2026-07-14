@@ -131,49 +131,21 @@
 }
 
 
-// Skeleton
-.skeleton{
+// Astronaut
+.astronaut{
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: 3rem;
+  bottom: 2rem;
   pointer-events: none;
   z-index: 0;
+  width: 18rem;
+  filter: drop-shadow(0 10px 30px rgba(255, 214, 0, 0.15));
   @include respond-below(sm) {
     display: none;
   }
-
-  .eyeball{
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    background: #ffbebe;
-    border-radius: 50%;
-    scale: 0;
-    transition: all 0.3s linear;
-    &.left{
-      left: 6%;
-      top: 62%;
-    }
-    &.right{
-      left: 15.5%;
-      top: 56.4%;
-    }
-  }
-
-  &.animating {
-    .eyeball{
-      scale: 1;
-      animation: skullEye 1.8s infinite;
-    }
-  }
-  @keyframes skullEye {
-    0%,
-    100% {
-      box-shadow:0 0 4px 8px hsl(var(--color-alert));
-    }
-    50% {
-      box-shadow:0 0 4px 4px hsl(var(--color-alert));
-    }
+  img{
+    width: 100%;
+    height: auto;
   }
 }
 

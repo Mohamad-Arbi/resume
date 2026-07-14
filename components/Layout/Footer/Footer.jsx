@@ -22,7 +22,19 @@ export default function Footer() {
 
     const container = useRef(null);
     const footerBottom = useRef(null);
+    const astronaut = useRef(null);
     const currentYear = getCurrentYear();
+
+    useGSAP(() => {
+        gsap.to(astronaut.current, {
+            y: -20,
+            rotation: 5,
+            duration: 3,
+            ease: "sine.inOut",
+            yoyo: true,
+            repeat: -1,
+        });
+    }, {scope: container});
 
     const [currentTime, setCurrentTime] = useState('');
     useEffect(() => {
@@ -75,6 +87,9 @@ export default function Footer() {
                     <div className={styles.verse}>{commonConfig.content.verse}</div>
                 </div>
             </div>
+            <figure className={styles.astronaut} ref={astronaut}>
+                <Image src="/astronaut.svg" alt="Astronaut" width={280} height={330} loading="lazy" />
+            </figure>
             <div className={styles.capillaryContainer}>
                 <svg width="1688" height="1769" xmlns="http://www.w3.org/2000/svg" className={`${styles.capillary} ${styles.capillary1}`}>
                     <path d="M900.4 1490c-249.6 158.3-536.8 246-858.5 278L0 1741.8c40.8-9.7 71-2.2 234-40 163.2-37.8 290.4-74.5 427.2-163.5C864.7 1398.2 946 1193.2 717 852.7c-145.1-195.4-157-400.2-26.5-609.4C836.5 9.1 1181.2-78 1440.4 83.7c234 146.2 321.1 491 175 725.3-96 172.7-199.2 375.4-715 681z" stroke="white" strokeWidth="2.5" fill="none" fillRule="evenodd"></path>
